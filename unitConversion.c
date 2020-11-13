@@ -66,4 +66,5 @@ int main(int argc, char *argv[])
 			printf("Please read above instructions and try again\n");
 		}
 	}
+        return 0;
 }
